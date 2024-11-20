@@ -32,6 +32,11 @@ Développeuse Fullstack passionnée et apprenante continue actuellement basée e
   <a href="https://medium.com/@gloriabesamba">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
+  <p align="center">
+    <a href="https://www.codingame.com/profile/610892aca07526cf94ad5f56693041561607494">
+    <img src="https://img.shields.io/badge/Codingame-0056D5?style=for-the-badge&logo=codingame&logoColor=white" alt="Codingame">
+  </a>
+</p>
 </p>
 <p align="center">
   <a href="https://www.codewars.com/users/LAZA-GLORIA">
