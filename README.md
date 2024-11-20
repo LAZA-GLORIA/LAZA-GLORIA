@@ -13,7 +13,7 @@ Développeuse Fullstack passionnée et apprenante continue actuellement basée e
 </br></br>
 
 🖥️ **À propos de moi** :
-- 🌱 Actuellement en apprentissage : **Angular**, **Spring Boot**, et **CI/CD pipelines**.
+- 🌱 Forte de mon expérience en **Angular** et **Spring Boot**, je me spécialise en **CI/CD**  et automatisation **DevOps** ..
 - 🎯 Recherche active d'une entreprise pour une reconversion **DevOps**.
 - 🖌️ Créer, apprendre et innover : trois moteurs de mon parcours de développeuse.
 
