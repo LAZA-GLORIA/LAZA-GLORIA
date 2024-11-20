@@ -58,7 +58,8 @@ Développeuse Fullstack passionnée et apprenante continue actuellement basée e
   ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
   ![Batch Processing](https://img.shields.io/badge/-Batch%20Processing-FF8C00?logo=apache&logoColor=white)
 
-- **Bases de données** : 
+- **Bases de données** :
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
   ![Flyway](https://img.shields.io/badge/-Flyway-CC0200?logo=flyway&logoColor=white)
